@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "battlecity", "battlecity\battlecity.vcxproj", "{BD06A577-C83E-40BA-A246-7A29B70F6030}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Logging", "Logging\Logging.vcxproj", "{B6C6DF80-DF2C-48D9-94A3-BC7872E5B985}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BCUnitTesting", "BCUnitTesting\BCUnitTesting.vcxproj", "{461660A6-8C57-4EC7-BF30-34E157F35C48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD06A577-C83E-40BA-A246-7A29B70F6030}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD06A577-C83E-40BA-A246-7A29B70F6030}.Debug|x86.Build.0 = Debug|Win32
+		{BD06A577-C83E-40BA-A246-7A29B70F6030}.Release|x86.ActiveCfg = Release|Win32
+		{BD06A577-C83E-40BA-A246-7A29B70F6030}.Release|x86.Build.0 = Release|Win32
+		{B6C6DF80-DF2C-48D9-94A3-BC7872E5B985}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6C6DF80-DF2C-48D9-94A3-BC7872E5B985}.Debug|x86.Build.0 = Debug|Win32
+		{B6C6DF80-DF2C-48D9-94A3-BC7872E5B985}.Release|x86.ActiveCfg = Release|Win32
+		{B6C6DF80-DF2C-48D9-94A3-BC7872E5B985}.Release|x86.Build.0 = Release|Win32
+		{461660A6-8C57-4EC7-BF30-34E157F35C48}.Debug|x86.ActiveCfg = Debug|Win32
+		{461660A6-8C57-4EC7-BF30-34E157F35C48}.Debug|x86.Build.0 = Debug|Win32
+		{461660A6-8C57-4EC7-BF30-34E157F35C48}.Release|x86.ActiveCfg = Debug|Win32
+		{461660A6-8C57-4EC7-BF30-34E157F35C48}.Release|x86.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD517AFB-B22A-4019-AA4F-5CF555BF4E03}
+	EndGlobalSection
+EndGlobal
